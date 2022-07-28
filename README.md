@@ -1,6 +1,10 @@
 # NTL-DS-062722's Cohort Repository!
 
+<<<<<<< HEAD
 THIS IS MY FIRST CHANGE TO A REPOSITORY
+=======
+GREG'S VERSION IS THE BESTEST OF ALL TIME!
+>>>>>>> upstream/main
 
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
 
